@@ -176,7 +176,7 @@ footer {
 
 #map-info {
     background-color: #444;
-    height: 700px;
+    height: 1000px;
    
 }
 
@@ -186,7 +186,7 @@ footer {
 }  
 
 #map-info .info-box {
-    height: 600px;
+    height: 900px;
     background-color: #195c92;
     width: 100%;
 } 
@@ -204,11 +204,21 @@ footer {
     outline-color: #Ffdd00;
     padding-top: 10px;
     width: 50%;
-    height: 400px;
+    height: 800px;
     background-color: #fdfdfd;
     float: right;
     text-align: center;
-}  
+} 
+
+#map-info .info-russia-tips {
+    width: 287px;
+    height: 220px;
+    background: url(../img/car2.png) no-repeat;
+    float: left;
+
+} 
+
+
 /* testimonials */
 
 

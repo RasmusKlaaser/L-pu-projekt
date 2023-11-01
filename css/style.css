@@ -192,10 +192,10 @@ footer {
 } 
 
 #map-info .info-preview {
-    width: 250px;
-    height: 250px;
+    width: 500px;
+    height: 500px;
     padding: 10px;
-    background: url(../img/russia_map.png) no-repeat;
+    background: url(../img/Russia\ 500.png) no-repeat;
     float: left;
 } 
 

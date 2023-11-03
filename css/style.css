@@ -211,13 +211,19 @@ footer {
 } 
 
 #map-info .info-russia-tips {
-    width: 287px;
+    width: 250px;
     height: 220px;
-    background: url(../img/car2.png) no-repeat;
+    background: url(../img/car_new.png) no-repeat;
     float: left;
 
 } 
 
+#map-info .info-russia-tips-triks {
+    width: 250px;
+    height: 170px;
+    background: url(../img/plane1.png) no-repeat;
+    float: right
+} 
 
 /* testimonials */
 
